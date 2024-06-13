@@ -1,0 +1,27 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Environnements virtuels
+venv/
+ENV/
+env/
+
+# Configuration de l'environnement
+.env
+
+# Configuration IDE
+.vscode/
+.idea/
+*.swp
+
+# Autres fichiers sensibles
+secrets.json
